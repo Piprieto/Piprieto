@@ -5,7 +5,9 @@ I’m passionate about technology and science. I enjoy tech tinkering and love e
 
 👩‍💻 I’m currently studying at 42 Urduliz, where I keep learning and growing every day in a practical, collaborative environment.
 
-![Mi foto de perfil](/home/piprieto/Pictures/Screenshots)
+![Texto alternativo](assets/home/piprieto/Pictures/Screenshots/42Urduliz_ZIP.png)
+)
+
 
 I’ve worked on several projects in C and I’m currently diving deeper into Python, aiming to expand my skills and master the language. I also want to diversify my learning by exploring new tools, technologies, and other programming languages.
 
