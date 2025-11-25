@@ -11,3 +11,16 @@ I’ve worked on several projects in C and I’m currently diving deeper into Py
 I’m especially interested in artificial intelligence and data analysis, and I’m motivated to keep developing in these areas through real-world projects that challenge me and help me keep evolving.
 
 🚀 Here, I’ll be sharing my projects, experiments, and my continuous learning journey. Let’s keep building and exploring!
+
+## 🛠️ Tecnologías y herramientas
+[Python]
+[C]
+[Linux]
+
+
+## 🌟 Proyectos destacados
+
+🔹 **[Libft]** — *( Este proyecto consiste en programar una librería en C)*  
+
+
+
