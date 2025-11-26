@@ -1,4 +1,4 @@
-Hi there! I'm Pilar 👋
+#Hi there! I'm Pilar 👋
 
 
 I’m passionate about technology and science. I enjoy tech tinkering and love exploring how things work.
