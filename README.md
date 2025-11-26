@@ -1,4 +1,4 @@
-# **Hi there! I'm Pilar 👋**
+### **Hi there! I'm Pilar 👋**
 
 
 I’m passionate about technology and science. I enjoy tech tinkering and love exploring how things work.
@@ -12,13 +12,12 @@ I’m especially interested in **IA and data analysis**, and I’m motivated to 
 
 🚀 Here, I’ll be sharing my projects, experiments, and my continuous learning journey. Let’s keep building and exploring!
 
-## 🛠️ Tecnologías y herramientas
-[Python]
-[C]
-[Linux]
+### 🛠️ Tecnologías y herramientas
+<img src="Linux.png" alt="Texto alternativo" width="100" height="100"> <img src="ubuntu.png" alt="Texto alternativo" width="100" height="260"> <img src="Python2.jpeg" alt="Texto alternativo" width="100" height="50"> <img src="C.png" alt="Texto alternativo" width="100" height="50"> 
 
 
-## 🌟 Proyectos destacados
+
+### 🌟 Proyectos destacados
 
 🔹 **[Libft]** — *( Este proyecto consiste en programar una librería en C)*  
 
