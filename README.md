@@ -1,9 +1,11 @@
-### **Hi there! I'm Pilar 👋**
+# **Hi there! I'm Pilar 👋**
 
 
 I’m passionate about technology and science. I enjoy tech tinkering and love exploring how things work.
 
 👩‍💻 I’m currently studying at **42 Urduliz**, where I keep learning and growing every day in a practical, collaborative environment.
+
+<img src="42Urduliz_ZIP.png" alt="Texto alternativo" width="50%">
 
 
 I’ve worked on several projects in **C** and I’m currently diving deeper into **Python**, aiming to expand my skills and master the language. I also want to diversify my learning by exploring new tools, technologies, and other programming languages.
