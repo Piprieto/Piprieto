@@ -15,11 +15,3 @@ I’m especially interested in **IA and data analysis**, and I’m motivated to 
 ### 🛠️ Languajes and Tools
 <img src="Linux.png" alt="Texto alternativo" width="100" height="100"> <img src="ubuntu.png" alt="Texto alternativo" width="100" height="260"> <img src="Python2.jpeg" alt="Texto alternativo" width="100" height="50"> <img src="C.png" alt="Texto alternativo" width="100" height="50"> 
 
-
-
-### 🌟 My projects
-
-🔹 **[Libft]** — *( Este proyecto consiste en programar una librería en C)*  
-
-
-
