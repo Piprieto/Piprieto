@@ -2,9 +2,9 @@
 
 I'm passionate about technology, science, and continuous learning. I enjoy exploring how things work, solving problems, and building projects that help me grow as a developer.
 
-🎓 I completed the program at **42 Urduliz**, where I developed a strong foundation in software development, algorithms, problem-solving, and collaborative work through project-based learning.
+🎓 I completed the program at **42 Urduliz**, where I developed a strong foundation in software development, algorithms, problem-solving, and collaborative work through project-based learning.  
 
-<img src="42Urduliz_ZIP.png" alt="42 Urduliz" width="20%">
+<img src="42Urduliz_ZIP.png" alt="42 Urduliz" width="10%">
 
 💻 During my journey at 42, I worked on multiple projects in **C**, strengthening my understanding of programming fundamentals, system concepts, and software architecture.
 
