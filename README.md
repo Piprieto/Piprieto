@@ -22,11 +22,9 @@ I'm passionate about technology, science, and continuous learning. I enjoy explo
 
 ### 🛠️ Languages and Tools
 
-<img src="Linux.png" alt="Linux" width="100" height="100">
-<img src="ubuntu.png" alt="Ubuntu" width="100" height="100">
-<img src="Python2.jpeg" alt="Python" width="100" height="50">
-<img src="C.png" alt="C" width="100" height="50">
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,c,git,github,vscode" />
+</p>
 ### 📈 Current Focus
 
 - Advanced Python Development
